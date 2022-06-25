@@ -1,4 +1,4 @@
-<img src="react-snowpack-tailwind-typescript.png" />
+<img src="images/react-snowpack-tailwind-typescript.png" />
 
 # React Snowpack Tailwind Typescript
 
