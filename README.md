@@ -4,6 +4,9 @@
 
 A simple template for creating React-Typescript projects that are packed with Snowpack and styled with Tailwind!
 
+## Dependencies
+
+This script uses [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stablehttps://classic.yarnpkg.com/lang/en/docs/install/#debian-stable) to create the project and install any project dependencies. If you'd prefer to use npm then you'd need to modify lines 26 and 34 of the `template.sh` file to use the npm appropriate scripts.
 
 ## Installation
 
